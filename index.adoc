@@ -1,0 +1,24 @@
+= Wiki for lab
+:source-highlighter: prettify
+:sectnums:
+:toc: left
+:toclevels: 2
+
+:toc!:
+
+Wiki for lab.
+
+:leveloffset: +1
+
+include::application-architecture/index.adoc[]
+
+include::sql/index.adoc[]
+
+include::java/index.adoc[]
+
+include::common/testing.adoc[]
+
+include::security/github-keys.adoc[]
+
+:leveloffset: -1
+
